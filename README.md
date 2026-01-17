@@ -91,12 +91,13 @@ This opens **Swagger UI**, where you can test the API directly from the browser.
   "text": "This service was amazing and fast"
 }
 
-## 🚧 Deployment Status
+🌍 Live Deployment
 
-This project is currently designed for **local development and learning purposes**.
-Deployment will be added in a future version with cloud hosting support.
+This API is live and publicly accessible, deployed on Render.
 
-{
+Base URL:
+
+https://sentiment-api-itlp.onrender.com
   "sentiment": "Positive",
   "confidence_score": 0.63
 }
