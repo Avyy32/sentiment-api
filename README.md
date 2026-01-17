@@ -97,7 +97,7 @@ This API is live and publicly accessible, deployed on Render.
 
 Base URL:
 
-https://sentiment-api-itlp.onrender.com
+https://sentiment-api-it1p.onrender.com/docs
   "sentiment": "Positive",
   "confidence_score": 0.63
 }
