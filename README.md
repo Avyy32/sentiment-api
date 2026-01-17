@@ -96,7 +96,7 @@ This opens **Swagger UI**, where you can test the API directly from the browser.
 This API is live and publicly accessible, deployed on Render.
 
 Base URL:
-https://sentiment-api-itlp.onrender.com/docs
+https://sentiment-api-it1p.onrender.com/docs
 
 Example Response:
 ```json
